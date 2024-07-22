@@ -1,4 +1,6 @@
-# Descrição:
+# Big O notation
+
+### Descrição:
 
 Este projeto é uma implementação da notação Big O em C. Ele fornece exemplos práticos de algoritmos comuns e demonstra como analisar seu desempenho usando a notação Big O. O objetivo é ajudar os desenvolvedores a entender melhor a eficiência de diferentes algoritmos e suas complexidades de tempo.
 
